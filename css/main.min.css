@@ -151,7 +151,7 @@ header .social li:first-child {
 .hero {
   display: block;
   height: 560px;
-  background: url(../img/hero.jpg) center center no-repeat fixed;
+  background: url(../img/hero.webp) center center no-repeat fixed;
   background-size: cover;
 }
 .hero .caption {
